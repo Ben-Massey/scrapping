@@ -1,5 +1,3 @@
-'use strict';
-
 const express = require("express");
 const Results = require("../models/results");
 const Comment = require("../models/comments");
